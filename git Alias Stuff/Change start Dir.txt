@@ -1,0 +1,1 @@
+Here's a more Windows-ish solution: Right click on the Windows shortcut that you use to launch git bash, and click Properties. Change the value of "Start In" to your desired workspace path.
